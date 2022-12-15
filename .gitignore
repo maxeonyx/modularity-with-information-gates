@@ -1,0 +1,13 @@
+__pycache__/
+env/
+.ipynb_checkpoints/
+wandb/
+
+# artifacts
+_training_runs/*
+_cache/*
+_outputs/*
+
+!**/.gitkeep
+
+**/*.ignore*

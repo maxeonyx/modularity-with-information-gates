@@ -1,0 +1,16 @@
+# requirements.txt for ml with tensorflow
+
+tensorflow >= 2.11
+tensorflow-probability
+tf-models-official
+datasets
+numpy
+matplotlib
+plotly
+einops
+enlighten
+wandb
+keras-nlp
+python-box
+randomname
+icecream
