@@ -1,3 +1,0 @@
-[submodule "einml-py-tf"]
-	path = einml-py-tf
-	url = git@github.com:einml/einml-py-tf
