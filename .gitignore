@@ -7,6 +7,8 @@ wandb/
 _training_runs/*
 _cache/*
 _outputs/*
+_artifacts/*
+_models/*
 
 !**/.gitkeep
 

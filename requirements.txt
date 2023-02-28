@@ -14,3 +14,4 @@ keras-nlp
 python-box
 randomname
 icecream
+nvsmi
