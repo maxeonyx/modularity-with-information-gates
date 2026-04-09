@@ -4,16 +4,6 @@ version = "0.1.0"
 description = "Modularity loss with learned information gating"
 authors = ["Max Clarke <maxeonyx@gmail.com>"]
 license = "None"
-readme = "README.md"
-
-
-[tool.poetry]
-name = "einml"
-version = "0.1.0"
-description = "Tensorflow utility library"
-authors = ["Max Clarke <maxeonyx@gmail.com>"]
-license = "None"
-readme = "README.md"
 packages = [{include = "einml"}]
 
 [tool.poetry.dependencies]
